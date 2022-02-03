@@ -2,7 +2,7 @@
 Currently working at OmbuLabs. I'm a professional programming enthusiast, a husband for a living, and a pianist when I have the time.
 
 ## Announcements
-### OmbuLabs is hiring! We are looking for Mid to Senior Rails Engineers and a Senior React Engineer interested in joining a fully remote and collaborative team. Learn more at https://www.ombulabs.com/jobs #rails #ruby #remote #react #developer #rubyonrails
+### OmbuLabs is hiring! We are looking for Senior Rails Engineers interested in joining a fully remote and collaborative team. Learn more at https://www.ombulabs.com/jobs #rails #ruby #remote #developer #rubyonrails
 
 <!--
 **mateusdeap/mateusdeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
