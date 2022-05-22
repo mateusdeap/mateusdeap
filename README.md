@@ -4,6 +4,8 @@ Currently working at OmbuLabs. I'm a professional programming enthusiast, a husb
 ## Announcements
 ### OmbuLabs is hiring! We are looking for Senior Rails Engineers interested in joining a fully remote and collaborative team. Learn more at https://www.ombulabs.com/jobs #rails #ruby #remote #developer #rubyonrails
 
+![](https://gitwar.herokuapp.com/badge?username=mateusdeap)
+
 <!--
 **mateusdeap/mateusdeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
