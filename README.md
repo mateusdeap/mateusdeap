@@ -9,20 +9,11 @@ You can find me here, but I don't talk much:
 ### What I know and love:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 
-### GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mateusdeap&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mateusdeap&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeap&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mateusdeap&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mateusdeap&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## ATTENTION!
-OmbuLabs is hiring! We are looking for Senior Rails Engineers interested in joining a fully remote team. Learn more at https://www.ombulabs.com/jobs #rails #ruby #remote #developer #rubyonrails
 
 <!--
 **mateusdeap/mateusdeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
