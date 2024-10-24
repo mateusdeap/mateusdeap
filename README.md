@@ -9,9 +9,6 @@ You can find me here, but I don't talk much:
 ### What I know and love:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mateusdeap&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mateusdeap&icon=0&color=0)](https://visitcount.itsvg.in)
 
